@@ -6,4 +6,6 @@ Computes 1,000,000 simulations using numpy to find the European call price for a
 
 The computed call price is approximately the Black-Scholes formula (± 0.01)
 
-Graphically displays Payoffs vs. Frequency using a histogram, which opens in a new tab
+Graphically displays Volatility Sensitivity using a histogram, which opens in a new tab
+
+Displays an Option Price Heatmap which opens in a new tab
